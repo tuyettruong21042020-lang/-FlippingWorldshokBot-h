@@ -1,0 +1,1 @@
+Reference images supplied in chat: shop, gameplay, death, menu. Use them to tune Vision.java thresholds and coordinates.
